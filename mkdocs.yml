@@ -1,6 +1,11 @@
-site_name: IDP
+site_name: justcloudnative
 site_url: https://justcloudnative.github.io
 nav:
     - Home: index.md
+    - Installation: installation.md
     - About: about.md
-theme: readthedocs   
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue grey
