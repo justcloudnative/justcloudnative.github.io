@@ -1,0 +1,6 @@
+site_name: IDP
+site_url: https://justcloudnative.github.io
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs   
